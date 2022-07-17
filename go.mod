@@ -1,3 +1,3 @@
-module github.com/md5-Hash
+module github.com/gomd5hash
 
 go 1.17

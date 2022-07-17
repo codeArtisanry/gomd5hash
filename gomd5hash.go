@@ -1,4 +1,4 @@
-package main
+package gomd5hash
 
 import (
 	"crypto/md5"
@@ -14,8 +14,4 @@ func CreateMd5Hash(text string) string {
 	}
 
 	return hex.EncodeToString(hasher.Sum(nil))
-}
-
-func main() {
-	println(CreateMd5Hash("Hello World"))
 }

@@ -6,3 +6,7 @@ import
 ``` 
 import github.com/codesnail21/gomd5hash
 ```
+
+```
+go get GitHub.com/codesnail21/gomd5hash
+```

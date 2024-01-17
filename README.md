@@ -46,10 +46,10 @@ func main() {
 ```
 Output:
 
-`
+```
 Input Text: Hello, gomd5hash!
 MD5 Hash: 79054025255fb1a26e4bc422aef54eb4
-`
+```
 
 ### Contributing
 If you find any issues or have suggestions for improvements, feel free to open an issue or create a pull request. Contributions are welcome!
